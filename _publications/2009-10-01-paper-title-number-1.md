@@ -3,7 +3,7 @@ title: "The Impact of Digital Village Development on Rural Women's Participation
 collection: publications
 category: manuscripts
 permalink: /publication/2025-03-03-paper-title-number-999
-excerpt: Keywords: Digital village; Women; Village governance; Empowerment
+excerpt: "Keywords: Digital village; Women; Village governance; Empowerment"
 date: 2025-03-03
 venue: 'Chinese Political Science Review'
 slidesurl:
