@@ -2,7 +2,7 @@
 title: "The paradox of smart cities: technological advancements and the disconnection from social participation"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-01-23-paper-title-number-1
+permalink: /publication/2026-01-23-paper-title-number-998
 excerpt: 
 date: 2026-01-23
 venue: 'Telematics and Informatics'
