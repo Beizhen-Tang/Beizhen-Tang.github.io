@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Beizhen Tang"
-  pronouns         : "he/his"  
+  pronouns         : "he/his/him"  
   bio              : "Student"
   location         : "China"
   employer         : 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : 
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
