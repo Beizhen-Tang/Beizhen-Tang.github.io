@@ -1,14 +1,11 @@
 ---
-title: "Paper Title Number 1"
+title: "The Impact of Digital Village Development on Rural Women's Participation in Village Governance in China"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: Journal
+permalink: /publication/doi.org-10.1007-s41111-025-00286-2
+date: 2025-03-03
+venue: 'Chinese Political Science Review'
+paperurl: 'https://link.springer.com/content/pdf/10.1007/s41111-025-00286-2.pdf'
+citation: 'Chen, L., Tang, B., Qin, J. et al. The Impact of Digital Village Development on Rural Women's Participation in Village Governance in China. Chin. Polit. Sci. Rev. 10, 412–439 (2025). https://doi.org/10.1007/s41111-025-00286-2'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Abstract: The development of digital villages has highlighted the unique advantages and important role of women in village governance. Using original survey data and robust regression analysis, we find that digital village development has expanded the scope of women's participation in village governance, deepened the extent of their involvement, and increased the frequency of their participation. The empowerment of women in village governance through digital village development is primarily reflected in three key phenomena: the gender dividends brought about by the digital economy, the practical need for women's involvement in governance within the context of rural revitalization, and national policies supporting the "she economy" and "she power." To address the remaining constraints on women's participation in village governance within the framework of digital village development, measures such as bridging the gender digital divide, improving mechanisms for women's participation, enhancing their sense of efficacy, and building their capacity could be implemented to better involve women in village governance.
