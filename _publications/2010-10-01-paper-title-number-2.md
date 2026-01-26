@@ -3,7 +3,7 @@ title: "The paradox of smart cities: technological advancements and the disconne
 collection: publications
 category: manuscripts
 permalink: /publication/2026-01-23-paper-title-number-998
-excerpt: 
+excerpt: "Keywords: Smart City; Urban Governance; Civic Participation; Digital Inclusion"
 date: 2026-01-23
 venue: 'Telematics and Informatics'
 slidesurl: 
