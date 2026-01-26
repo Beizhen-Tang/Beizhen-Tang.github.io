@@ -7,7 +7,7 @@ excerpt:
 date: 2026-01-23
 venue: 'Telematics and Informatics'
 slidesurl: 
-paperurl: 'https://beizhen-tang.github.io/files/paper2.pdf'
+paperurl: 'https://beizhen-tang.github.io/files/tele.pdf'
 citation: "Tang, B., & Aldrich, D. P. (2026). The paradox of smart cities: technological advancements and the disconnection from social participation. Telematics and Informatics, 102376."
 ---
 
