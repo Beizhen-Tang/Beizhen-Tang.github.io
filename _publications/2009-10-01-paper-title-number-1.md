@@ -2,7 +2,7 @@
 title: "The Impact of Digital Village Development on Rural Women's Participation in Village Governance in China"
 collection: publications
 category: "Journal"
-permalink: /publication/doi-org-10-1007-s41111-025-00286-2/
+permalink: /publication/2009-10-01-paper-title-number-1
 date: 2025-03-03
 venue: "Chinese Political Science Review"
 paperurl: "https://link.springer.com/content/pdf/10.1007/s41111-025-00286-2.pdf"
