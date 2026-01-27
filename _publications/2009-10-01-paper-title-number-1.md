@@ -8,7 +8,7 @@ date: 2025-03-03
 venue: 'Chinese Political Science Review'
 slidesurl:
 paperurl: 'https://link.springer.com/content/pdf/10.1007/s41111-025-00286-2.pdf'
-citation:
+citation: 
 ---
 
 
