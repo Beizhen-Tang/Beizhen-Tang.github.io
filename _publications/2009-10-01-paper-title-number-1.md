@@ -8,7 +8,7 @@ date: 2025-03-03
 venue: 'Chinese Political Science Review'
 slidesurl:
 paperurl: 'https://link.springer.com/content/pdf/10.1007/s41111-025-00286-2.pdf'
-citation: "Chen, L., Tang, B., Qin, J. et al. The Impact of Digital Village Development on Rural Women's Participation in Village Governance in China. Chin. Polit. Sci. Rev. 10, 412–439 (2025). https://doi.org/10.1007/s41111-025-00286-2"
+citation:
 ---
 
 
