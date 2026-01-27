@@ -1,7 +1,7 @@
 ---
 title: "Talking Machines, Framing Futures: How News Media Construct AI Across Nations and Domains"
 collection: publications
-category: working
+category: UR
 permalink: 
 date: 2026-01-28
 status: "Under review"
