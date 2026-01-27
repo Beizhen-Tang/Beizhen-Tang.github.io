@@ -1,15 +1,14 @@
 ---
-title: "The Impact of Digital Village Development on Rural Women's Participation in Village Governance in China"
-collection: publications
+title: "Talking Machines, Framing Futures: How News Media Construct AI Across Nations and Domains"
+collection: Under review-paper
 category: manuscripts
-permalink: /publication/2025-03-03-paper-title-number-999
-excerpt: "Keywords: Digital village; Women; Village governance; Empowerment"
-date: 2025-03-03
-venue: 'Chinese Political Science Review'
+permalink: /publication/2026-01-28-paper-title-number-1000
+excerpt: "Keywords: AI; Media Framing; Media Sentiment; AI Governance"
+date: 2026
+venue: 'Technology in Society'
 slidesurl:
-paperurl: 'https://link.springer.com/content/pdf/10.1007/s41111-025-00286-2.pdf'
-citation: "Chen, L., Tang, B., Qin, J. et al. The Impact of Digital Village Development on Rural Women's Participation in Village Governance in China. Chin. Polit. Sci. Rev. 10, 412–439 (2025). https://doi.org/10.1007/s41111-025-00286-2"
+paperurl: 
+citation: 
 ---
 
-
-Abstract: The development of digital villages has highlighted the unique advantages and important role of women in village governance. Using original survey data and robust regression analysis, we find that digital village development has expanded the scope of women's participation in village governance, deepened the extent of their involvement, and increased the frequency of their participation. The empowerment of women in village governance through digital village development is primarily reflected in three key phenomena: the gender dividends brought about by the digital economy, the practical need for women's involvement in governance within the context of rural revitalization, and national policies supporting the "she economy" and "she power." To address the remaining constraints on women's participation in village governance within the framework of digital village development, measures such as bridging the gender digital divide, improving mechanisms for women's participation, enhancing their sense of efficacy, and building their capacity could be implemented to better involve women in village governance.
+Abstract: This study examines how global news media construct the legitimacy of artificial intelligence (AI) across countries, domains, and time, and identifies national conditions associated with cross-country differences in AI sentiment. We analyze 1,007,867 English-language AI news articles from Event Registry (Aug 2023-Feb 2025; 130 countries; 3,152 outlets), combining sentiment estimation, domain-based discourse mapping (Business, Technology, Society), and country-level modeling with robustness and interpretable feature attribution. We find a mildly positive global baseline but substantial cross-national dispersion and domain divergence: Business coverage is more opportunity-oriented, Technology emphasizes feasibility and integration, whereas Society more often foregrounds ethics, trust, and distributional risks. The trajectory is non-linear, with an early-2025 shift toward more governance-centered and critical narratives alongside a reorganization of negative themes. Across countries, sentiment is systematically associated with governance and accountability, press-freedom conditions, territorial-demographic structure, and cultural orientations. These findings advance a four-layer “institution-discourse-practice-cognition” framework showing that AI legitimacy is context-specific and changes over time. Institutionally, the results support domain-sensitive governance that pairs innovation with enforceable accountability; for social policy, they highlight public-facing safeguards and capacity-building where labor, welfare, and inequality risks are salient. Best practices include routine impact assessments in high-stakes domains, periodic independent audits with transparent incident disclosure, and risk-balanced public communication standards.
