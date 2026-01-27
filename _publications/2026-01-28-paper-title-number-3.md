@@ -3,10 +3,11 @@ title: "Talking Machines, Framing Futures: How News Media Construct AI Across Na
 collection: publications
 category: UR
 permalink: 
+venue: "Technology in Society"
+status: "Manuscript under review"
 date: 2026-01-28
-status: "Under review"
 citation: "Manuscript under review at Technology in Society."
-excerpt: "Manuscript under review at Technology in Society. Keywords: AI; Media Framing; Media Sentiment; AI Governance"
+excerpt: "Keywords: AI; Media Framing; Media Sentiment; AI Governance"
 paperurl:
 ---
 
