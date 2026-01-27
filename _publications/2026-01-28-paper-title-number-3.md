@@ -1,7 +1,7 @@
 ---
 title: "Talking Machines, Framing Futures: How News Media Construct AI Across Nations and Domains"
-collection: Under review-paper
-category: manuscripts
+collection: publications
+category: Under review-paper
 permalink: /publication/2026-01-28-paper-title-number-1000
 excerpt: "Keywords: AI; Media Framing; Media Sentiment; AI Governance"
 date: 2026-01-28
