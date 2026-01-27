@@ -91,7 +91,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
    working:
-    title: "Manuscripts (Under review / Working papers)"
+    title: 'Manuscripts (Under review / Working papers)'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
