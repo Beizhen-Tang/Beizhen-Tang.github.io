@@ -4,7 +4,7 @@ collection: Under review-paper
 category: manuscripts
 permalink: /publication/2026-01-28-paper-title-number-1000
 excerpt: "Keywords: AI; Media Framing; Media Sentiment; AI Governance"
-date: 2026
+date: 2026-01-28
 venue: 'Technology in Society'
 slidesurl:
 paperurl: 
