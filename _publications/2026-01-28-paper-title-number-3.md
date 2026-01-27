@@ -6,7 +6,7 @@ permalink:
 venue: "Technology in Society"
 status: "Manuscript under review"
 date: 2026-01-28
-citation: "Manuscript under review at Technology in Society."
+citation:
 excerpt: "Keywords: AI; Media Framing; Media Sentiment; AI Governance"
 paperurl:
 ---
