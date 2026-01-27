@@ -83,6 +83,8 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
+  manuscripts:
+    title: "Manuscripts (Under review / Working papers)"
 publication_category:
   books:
     title: 'Books'
@@ -90,9 +92,11 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
-   working:
-    title: 'Manuscripts (Under review / Working papers)'
-
+  working:
+    title: 'Working papers'   
+  UR:
+    title: 'Manuscripts (Under review)'
+    
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
