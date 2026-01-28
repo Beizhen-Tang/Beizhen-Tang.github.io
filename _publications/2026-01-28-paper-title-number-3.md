@@ -4,7 +4,7 @@ collection: publications
 category: UR
 permalink: 
 venue: "Technology in Society"
-status: "Manuscript under review"
+status: "status: "Revise & Resubmit (R&R)"
 date: 2026-01-28
 citation:
 excerpt: "Keywords: AI; Media Framing; Media Sentiment; AI Governance"
