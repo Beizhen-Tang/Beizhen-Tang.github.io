@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I graduated from the Faculty of Social Sciences at The University of Hong Kong (HKU) with a Master of Social Sciences in Social Data Analytics (Sep 2024 – Nov 2025). 
+I graduated from the Faculty of Social Sciences at The University of Hong Kong (HKU) with a Master of Social Sciences in Social Data Analytics. 
 
-My research interests lie at the intersection of methods, comparative politics, political communication, digital politics, political behavior, and computational social science. 
+My research interests lie at the intersection of political communication, digital politics, political behavior, and computational social science. 
 
 I use computational approaches such as machine learning, media data analysis, and social network analysis to study how digital technologies and information environments shape governance and citizen behavior.
